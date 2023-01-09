@@ -4,7 +4,7 @@
     "userInterfaceStyle": "automatic",
     "name": "Tinder Clone",
     "description": "Tinder Clone created with React Native and Expo",
-    "slug": "tinder-clone",
+    "slug": "toedir",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -28,6 +28,12 @@
         "backgroundColor": "#FFFFFF"
       }
     },
-    "githubUrl": "https://github.com/MartsTech/tinder-clone"
+    "githubUrl": "https://github.com/MartsTech/tinder-clone",
+    "extra": {
+      "eas": {
+        "projectId": "e2f5ad38-7a45-49b5-8c5a-85c48793e21a"
+      }
+    },
+    "owner": "kwall"
   }
 }
