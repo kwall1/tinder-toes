@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-   Tinder Clone created with React Native, Expo and Firebase</a>.
+   Tinder Clone created with React Native, Expo and Firebase.</a>.
 </h3>
 
 <p align="center">
